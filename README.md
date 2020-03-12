@@ -1,2 +1,2 @@
 # Concrete_Thermal_Insulation
-This proyect measures the thermal isulation of differentes concrete cylinders which are embedded with PET to reduce its heat transfer ratio
+Using WiFi modules to transfer data with Arduino IDE for measure different composition concrete cylinders and find a delta of temperature on a specific concrete composition
